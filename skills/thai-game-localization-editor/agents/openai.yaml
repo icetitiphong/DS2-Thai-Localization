@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thai Game Localization Editor"
+  short_description: "Review Thai game dialogue without losing meaning"
+  default_prompt: "Use $thai-game-localization-editor to review only risky game translation rows against English, preserving context and protected file fields."
